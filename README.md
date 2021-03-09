@@ -4,6 +4,7 @@ This portfolio is for TECH I.S.'s students. Learn about HTML / CSS / Bootstap th
 
 [Visit Demo Website](https://portfolio-techis.glitch.me/)
 
+<img src="https://user-images.githubusercontent.com/7912575/107871113-affa6480-6ec4-11eb-87a6-3f4572a33110.png" width="500">
 
 ## Tech used
 * HTML
